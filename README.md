@@ -40,3 +40,9 @@ You may use either Android Studio (recommended) or Xcode, this will not work on 
 
 
 
+
+
+*built with Flutter and GetX*
+
+
+
