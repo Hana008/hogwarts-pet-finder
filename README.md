@@ -3,9 +3,9 @@
 Welcome to Hogwarts Pet Finder, the virtual adjustment for the C-word that must not be named. This year we have collaborated with *Magical Menagerie* to help you find your destined companion to begin your wondrous journey at Hogwarts! Please see the excerpts and spells below to get started.
 
 <p float="left">
-  <img src="screenshots/homescreen.png" width="200" /> 
-  <img src="screenshots/loading.png" width="200" />
-  <img src="screenshots/finalCat.png" width="200" />
+  <img src="screenshots/homescreen.png" width="300" /> 
+  <img src="screenshots/loading.png" width=300" />
+  <img src="screenshots/finalCat.png" width="300" />
 </p>
 
 ## Getting Started
